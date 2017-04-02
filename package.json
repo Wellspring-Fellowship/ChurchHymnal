@@ -1,0 +1,40 @@
+{
+  "name": "churchhymnal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "preact-compat": "^3.14.3",
+    "react-router-dom": "^4.0.0",
+    "styled-components": "^1.4.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "babel-preset-react-app": "^2.2.0",
+    "change-case": "^3.0.1",
+    "git-directory-deploy": "^1.5.1",
+    "gray-matter": "^2.1.1",
+    "markdown-it": "^8.3.1",
+    "prep": "^1.6.0",
+    "prettier": "^0.22.0",
+    "react-app-rewire-preact": "^0.1.2",
+    "react-app-rewired": "^0.6.5",
+    "react-scripts": "0.9.5",
+    "standard": "^9.0.2",
+    "sw-precache": "^5.1.0"
+  },
+  "scripts": {
+    "start": "npm run compile-posts && react-app-rewired start",
+    "build": "npm run compile-posts && react-app-rewired build && prep ./build && sw-precache --root='build/' --static-file-globs='build/**/!(*map*)'",
+    "watch": "nodemon -w ./posts -e .markdown,.md --exec 'npm run compile-posts'",
+    "lint": "standard",
+    "format": "prettier --single-quote --write src/**/*.js && standard --fix",
+    "compile-posts": "node ./compileMarkdown.js"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "globals": [
+      "fetch",
+      "it"
+    ]
+  }
+}
