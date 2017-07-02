@@ -9,7 +9,7 @@ import Song from './Components/Song'
 const RouteContainer = styled.div`
   background-color: #272b30;
   min-height: 100vh;
-  height: 100%
+  height: 100%;
 `
 
 class App extends Component {
