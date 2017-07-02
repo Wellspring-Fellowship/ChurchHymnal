@@ -1,49 +1,45 @@
 ---
 layout: post
-title: "There is power in the blood"
+title: "There is pow'r in the blood"
 date: 2015-05-09T13:40:02-05:00
 song: "33"
 ---
-Have you been to Jesus for the cleansing power?
-Are you washed in the blood of the Lamb?
-Are you fully trusting in His grace this hour?
-Are you washed in the blood of the Lamb?
+Would you be free from the burden of sin?
+There's pow'r in the blood, pow'r in the blood
+Would you o'er evil a victory win?
+There's wonderful pow'r in the blood
 
-Refrain:
-Are you washed in the blood,
-In the soul cleansing blood of the Lamb?
-Are your garments spotless? Are they white as snow?
-Are you washed in the blood of the Lamb?
+(Refrain)
+There is pow'r, power, wonder-working power
+In the blood of the Lamb
+There is pow'r, power, wonder-working power
+In the precious blood of the Lamb
 
-Are you walking daily by the Savior’s side?
-Are you washed in the blood of the Lamb?
-Do you rest each moment in the Crucified?
-Are you washed in the blood of the Lamb?
+Would you be free from your passion and pride
+There’s pow'r in the blood, power in the blood
+Come for a cleansing to Calvary’s tide
+There's wonderful pow'r in the blood
 
-Refrain:
-Are you washed in the blood,
-In the soul cleansing blood of the Lamb?
-Are your garments spotless? Are they white as snow?
-Are you washed in the blood of the Lamb?
+(Refrain)
+There is pow'r, power, wonder-working power
+In the blood of the Lamb
+There is pow'r, power, wonder-working power
+In the precious blood of the Lamb
 
-When the Bridegroom cometh will your robes be white?
-Are you washed in the blood of the Lamb?
-Will your soul be ready for the mansions bright,
-And be washed in the blood of the Lamb?
+Would you be whiter,
+much whiter than snow?
+There's pow'r in the blood, power in the blood
+Sin stains are lost in its life-giving flow
+There's wonderful pow'r in the blood
 
-Refrain:
-Are you washed in the blood,
-In the soul cleansing blood of the Lamb?
-Are your garments spotless? Are they white as snow?
-Are you washed in the blood of the Lamb?
+(Refrain)
+There is pow'r, power, wonder-working power
+In the blood of the Lamb
+There is pow'r, power, wonder-working power
+In the precious blood of the Lamb
 
-Lay aside the garments that are stained with sin,
-And be washed in the blood of the Lamb;
-There’s a fountain flowing for the soul unclean,
-O be washed in the blood of the Lamb!
-
-Refrain:
-Are you washed in the blood,
-In the soul cleansing blood of the Lamb?
-Are your garments spotless? Are they white as snow?
-Are you washed in the blood of the Lamb?
+(Refrain)
+There is pow'r, power, wonder-working power
+In the blood (in the blood) of the Lamb (of the Lamb)
+There is pow'r, power, wonder-working power
+In the precious blood of the Lamb
