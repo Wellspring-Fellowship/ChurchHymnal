@@ -35,8 +35,7 @@ const Table = styled.table`
   width: 100%;
 `
 
-const SongTitle = styled.td`
-`
+const SongTitle = styled.td``
 
 const SongNumber = styled.td`
   vertical-align: middle;
@@ -77,9 +76,7 @@ const SongRow = styled.tr`
   }
 `
 
-const Head = styled.thead`
-
-`
+const Head = styled.thead``
 
 const MainBody = styled.tbody`
   border-top-width: 2px;
@@ -87,13 +84,13 @@ const MainBody = styled.tbody`
   border-top-color: rgb(28, 30, 34);
 `
 
-const HeadRow = styled.tr`
-  height: 31px;
-`
+const HeadRow = styled.tr`height: 31px;`
 
-const SongItem = ({ song }) => (
+const SongItem = ({ song }) =>
   <SongRow>
-    <SongNumber>{song.song}</SongNumber>
+    <SongNumber>
+      {song.song}
+    </SongNumber>
     <SongTitle>
       <StyledLink
         to={{
@@ -104,7 +101,6 @@ const SongItem = ({ song }) => (
       </StyledLink>
     </SongTitle>
   </SongRow>
-)
 
 export default function ({ songs }) {
   return (

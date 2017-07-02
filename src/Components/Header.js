@@ -5,9 +5,9 @@ import { Link, withRouter } from 'react-router-dom'
 const Container = styled.div``
 
 const Title = styled.h1`
- margin: 0;
- padding: 1em;
- text-align: center;
+  margin: 0;
+  padding: 1em;
+  text-align: center;
 `
 
 const Form = styled.form`
@@ -18,29 +18,19 @@ const Form = styled.form`
 const Input = styled.input`
   background-color: white;
   color: black;
-
 `
 
-const Label = styled.label`
-  color: white;
-`
+const Label = styled.label`color: white;`
 
 const StyledLink = styled(Link)`
  color: #c8c8c8;
 `
 
-function FilterInput (
-  {
-    onFilter,
-    filter,
-    handleSubmit
-  }
-) {
+function FilterInput ({ onFilter, filter, handleSubmit }) {
   return (
     <Form onSubmit={handleSubmit}>
       <Label>
-        SEARCH:{' '}
-        <Input type='text' value={filter} onChange={onFilter} />
+        SEARCH: <Input type='text' value={filter} onChange={onFilter} />
       </Label>
       <input type='submit' value='' style={{ display: 'none' }} />
     </Form>
@@ -62,11 +52,7 @@ class Header extends Component {
   }
 
   handleSubmit = event => {
-    const {
-      filter,
-      location,
-      history
-    } = this.props
+    const { filter, location, history } = this.props
     if (filter !== '' && location.pathname !== '/') {
       history.push('/')
     }
@@ -74,10 +60,7 @@ class Header extends Component {
   };
 
   render () {
-    const {
-      onFilter,
-      filter
-    } = this.props
+    const { onFilter, filter } = this.props
     return (
       <Container>
         <Title>

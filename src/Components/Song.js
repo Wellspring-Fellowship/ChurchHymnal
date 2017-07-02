@@ -1,9 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const Container = styled.div`
-  padding: 2em;
-`
+const Container = styled.div`padding: 2em;`
 
 const Title = styled.h2`
   text-align: center;
@@ -15,9 +13,7 @@ const Number = styled.h3`
   color: white;
 `
 
-const Body = styled.div`
-  color: white;
-`
+const Body = styled.div`color: white;`
 
 export default function ({ song }) {
   return (
