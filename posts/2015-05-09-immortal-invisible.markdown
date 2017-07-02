@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imortal, invisible"
+title: "Immortal, invisible"
 date: 2015-05-09T13:40:02-05:00
 song: "47"
 ---
