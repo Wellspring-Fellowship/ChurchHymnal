@@ -2,7 +2,7 @@
 layout: post
 title: "Just as I Am"
 date: 2015-05-09T13:40:02-05:00
-song: "21A"
+song: "21B"
 ---
 Just as I am—without one plea,
 But that Thy blood was shed for me,

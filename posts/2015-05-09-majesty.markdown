@@ -2,7 +2,7 @@
 layout: post
 title: "Majesty"
 date: 2015-05-09T13:40:02-05:00
-song: "21B"
+song: "21A"
 ---
 
 Majesty, worship his majesty;
