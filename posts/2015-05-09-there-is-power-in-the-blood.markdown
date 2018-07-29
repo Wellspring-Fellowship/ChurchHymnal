@@ -38,6 +38,13 @@ In the blood of the Lamb
 There is pow'r, power, wonder-working power
 In the precious blood of the Lamb
 
+
+Would you do service
+for Jesus your King?
+There's pow'r in the blood, power in the blood
+Would you live daily His praises to sing?
+There's wonderful pow'r in the blood
+
 (Refrain)
 There is pow'r, power, wonder-working power
 In the blood (in the blood) of the Lamb (of the Lamb)
