@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AND CAN IT BE THAT I SHOULD GAIN?"
+title: "And Can It Be That I Should Gain?"
 date: 2015-05-09T13:40:02-05:00
 song: "71"
 ---
@@ -12,15 +12,6 @@ Amazing love! How can it be,
 That Thou, my God, shouldst die for me?
 Amazing love! How can it be,
 That Thou, my God, shouldst die for me?
-
-’Tis mystery all: th’Immortal dies:
-Who can explore His strange design?
-In vain the firstborn seraph tries
-To sound the depths of love divine.
-’Tis mercy all! Let earth adore,
-Let angel minds inquire no more.
-’Tis mercy all! Let earth adore;
-Let angel minds inquire no more.
 
 He left His Father’s throne above
 So free, so infinite His grace—
@@ -39,15 +30,6 @@ My chains fell off, my heart was free,
 I rose, went forth, and followed Thee.
 My chains fell off, my heart was free,
 I rose, went forth, and followed Thee.
-
-Still the small inward voice I hear,
-That whispers all my sins forgiven;
-Still the atoning blood is near,
-That quenched the wrath of hostile Heaven.
-I feel the life His wounds impart;
-I feel the Savior in my heart.
-I feel the life His wounds impart;
-I feel the Savior in my heart.
 
 No condemnation now I dread;
 Jesus, and all in Him, is mine;
