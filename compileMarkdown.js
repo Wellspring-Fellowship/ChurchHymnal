@@ -62,5 +62,8 @@ const json = getAllPostFilepaths().map(post => convertMarkdownToJson(post))
 fs.writeFile(
   './src/posts.json',
   JSON.stringify(json.sort((a, b) => sortAlphaNum(a.song, b.song))),
-  'utf8'
+  'utf8',
+  (err) => {
+    if (err) console.error(err)
+  }
 )
